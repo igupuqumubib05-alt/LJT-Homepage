@@ -7,6 +7,97 @@ redirect_from:
   - /about.html
 ---
 
+# Junteng Liu
+
+**First-year PhD candidate at HKUST NLP Group**
+
+Research focuses on natural language processing and machine learning, with specific interests in:
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
+
+## Academic Background
+
+**Ph.D. in Computer Science** (2024-Present)
+- Hong Kong University of Science and Technology (HKUST)
+- HKUST NLP Group
+- Advisor: Professor Junxian He
+
+**B.Eng. in Computer Science** (2020-2024)
+- Shanghai Jiao Tong University (SJTU)
+- Received Zhiyuan Honor Scholarship
+
+## Research Experience
+
+**Research Intern** at MINIMAX
+- February 2025 - Present
+- AI/technology company
+
+**Research Intern** at Tencent WXG
+- June 2024 - September 2024
+- Division of Tencent technology company
+- Advisor: Zifei Shan
+
+**Research Intern** at Shanghai AI Lab
+- June 2023 - December 2023
+- AI research laboratory
+- Advisor: Prof. Yu Cheng
+
+## Publications
+
+### 2025
+
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
+   - First author: Junteng Liu
+   - Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+   - Published on Arxiv
+   - Has GitHub code repository
+
+2. **On the Perception Bottleneck of VLMs for Chart Understanding**
+   - First author: Junteng Liu
+   - Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+   - Published on Arxiv
+   - Has GitHub code repository: Vision4Chart
+
+### 2024
+
+3. **On the Universal Truthfulness Hyperplane Inside LLMs**
+   - First author: Junteng Liu
+   - Co-authors: Shiqi Chen, Yu Cheng, Junxian He
+   - Published at EMNLP 2024
+   - Has GitHub code repository: Universal_Truthfulness_Hyperplane
+
+4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
+   - Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+   - Published at ICML 2024
+
+### 2023
+
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**
+   - Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+   - Published at NeurIPS 2023
+
+6. **Composing Parameter-Efficient Modules with Arithmetic Operations**
+   - Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+   - Published at NeurIPS 2023
+
+## Skills
+
+- Natural Language Processing
+- Machine Learning
+- Large Language Models (LLM)
+- Reinforcement Learning
+- Vision-Language Models (VLM)
+- Python
+
+## Contact Information
+
+- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -41,8 +132,7 @@ For site content, there is one Markdown file for each type of content, which are
 
 **Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
 How to edit your site's GitHub repository
 ------
